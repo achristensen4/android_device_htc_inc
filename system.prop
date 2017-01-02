@@ -36,7 +36,7 @@ ro.phone_storage = 1
 ro.cdma.data_retry_config = max_retries=infinite,0,0,60000,120000,480000,900000
 
 # Disable HTC checkin service.
-ro.config.htc.nocheckin=1
+ro.config.htc.nocheckin=0
 
 # Set Horizontal VVM = true and HorizontalBUA = true for Incredible#C Verizon build
 # Then Verizon VVM/BuA program can check this property to known if there is a Native VVM/BuA in ROM
